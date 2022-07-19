@@ -384,7 +384,7 @@ button {
 }
 
 .web_hosting {
-     text-align: center;
+     text-align: start;
 }
 
 .web_hosting figure {
@@ -395,8 +395,16 @@ button {
      color: #0c0f38;
      font-size: 17px;
      line-height: 28px;
-     padding: 40px 50px;
+     padding: 10px 10px;
 }
+
+.web_hosting_p p {
+     color: #0c0f38;
+     font-size: 17px;
+     line-height: 28px;
+     padding: 10px 10px;
+     margin-left: 50px;
+     }
 
 .web_hosting a {
      font-size: 16px;
